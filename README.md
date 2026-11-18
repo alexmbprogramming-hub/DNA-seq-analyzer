@@ -9,3 +9,8 @@ Now a days the project doesn't have any features yet, but the idea is to impleme
   * The complementary string
   * ...
  
+## Before starting
+Before starting using these files you have to know that is used the next libraries:
+* streamlit -> For the interfaces
+* pytest -> For the test of the application
+These libraries has to be downloaded by the user in his own
